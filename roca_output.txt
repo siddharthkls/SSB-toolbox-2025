@@ -1,0 +1,348 @@
+Input matrix B size: 149 x 99
+Bcap size: 149 x 99
+Lambda size: 99
+   4.012191
+   3.715509
+   3.591276
+   3.287443
+   3.072892
+   2.961806
+   2.804447
+   2.689438
+   2.657438
+   2.438558
+   2.337998
+   2.304932
+   2.207966
+   2.084509
+   2.055742
+   1.914004
+   1.905416
+   1.870975
+   1.749598
+   1.708305
+   1.659337
+   1.565959
+   1.548179
+   1.516969
+   1.440338
+   1.410655
+   1.366720
+   1.361923
+   1.336104
+   1.281382
+   1.228532
+   1.212864
+   1.173643
+   1.142952
+   1.126333
+   1.098633
+   1.024481
+   1.018518
+   0.997186
+   0.973557
+   0.948146
+   0.886824
+   0.879302
+   0.860003
+   0.827195
+   0.804907
+   0.774185
+   0.750620
+   0.719783
+   0.705738
+   0.666285
+   0.651227
+   0.625884
+   0.609058
+   0.589746
+   0.552481
+   0.539587
+   0.528230
+   0.507534
+   0.501640
+   0.471089
+   0.467301
+   0.442374
+   0.417181
+   0.395746
+   0.391156
+   0.380891
+   0.372199
+   0.348999
+   0.324608
+   0.296212
+   0.291022
+   0.279565
+   0.275969
+   0.256246
+   0.249817
+   0.234525
+   0.217378
+   0.194590
+   0.187427
+   0.184175
+   0.166234
+   0.160709
+   0.138943
+   0.130670
+   0.122400
+   0.102749
+   0.101848
+   0.094148
+   0.080467
+   0.077461
+   0.067011
+   0.062498
+   0.059991
+   0.045340
+   0.041577
+   0.036062
+   0.027664
+   0.022672
+Running shuffle 1 of 100...
+Running shuffle 2 of 100...
+Running shuffle 3 of 100...
+Running shuffle 4 of 100...
+Running shuffle 5 of 100...
+Running shuffle 6 of 100...
+Running shuffle 7 of 100...
+Running shuffle 8 of 100...
+Running shuffle 9 of 100...
+Running shuffle 10 of 100...
+Running shuffle 11 of 100...
+Running shuffle 12 of 100...
+Running shuffle 13 of 100...
+Running shuffle 14 of 100...
+Running shuffle 15 of 100...
+Running shuffle 16 of 100...
+Running shuffle 17 of 100...
+Running shuffle 18 of 100...
+Running shuffle 19 of 100...
+Running shuffle 20 of 100...
+Running shuffle 21 of 100...
+Running shuffle 22 of 100...
+Running shuffle 23 of 100...
+Running shuffle 24 of 100...
+Running shuffle 25 of 100...
+Running shuffle 26 of 100...
+Running shuffle 27 of 100...
+Running shuffle 28 of 100...
+Running shuffle 29 of 100...
+Running shuffle 30 of 100...
+Running shuffle 31 of 100...
+Running shuffle 32 of 100...
+Running shuffle 33 of 100...
+Running shuffle 34 of 100...
+Running shuffle 35 of 100...
+Running shuffle 36 of 100...
+Running shuffle 37 of 100...
+Running shuffle 38 of 100...
+Running shuffle 39 of 100...
+Running shuffle 40 of 100...
+Running shuffle 41 of 100...
+Running shuffle 42 of 100...
+
+octave:3> exit
+Input matrix B size: 149 x 99
+Bcap size: 149 x 99
+Lambda size: 99
+   4.012191
+   3.715509
+   3.591276
+   3.287443
+   3.072892
+   2.961806
+   2.804447
+   2.689438
+   2.657438
+   2.438558
+   2.337998
+   2.304932
+   2.207966
+   2.084509
+   2.055742
+   1.914004
+   1.905416
+   1.870975
+   1.749598
+   1.708305
+   1.659337
+   1.565959
+   1.548179
+   1.516969
+   1.440338
+   1.410655
+   1.366720
+   1.361923
+   1.336104
+   1.281382
+   1.228532
+   1.212864
+   1.173643
+   1.142952
+   1.126333
+   1.098633
+   1.024481
+   1.018518
+   0.997186
+   0.973557
+   0.948146
+   0.886824
+   0.879302
+   0.860003
+   0.827195
+   0.804907
+   0.774185
+   0.750620
+   0.719783
+   0.705738
+   0.666285
+   0.651227
+   0.625884
+   0.609058
+   0.589746
+   0.552481
+   0.539587
+   0.528230
+   0.507534
+   0.501640
+   0.471089
+   0.467301
+   0.442374
+   0.417181
+   0.395746
+   0.391156
+   0.380891
+   0.372199
+   0.348999
+   0.324608
+   0.296212
+   0.291022
+   0.279565
+   0.275969
+   0.256246
+   0.249817
+   0.234525
+   0.217378
+   0.194590
+   0.187427
+   0.184175
+   0.166234
+   0.160709
+   0.138943
+   0.130670
+   0.122400
+   0.102749
+   0.101848
+   0.094148
+   0.080467
+   0.077461
+   0.067011
+   0.062498
+   0.059991
+   0.045340
+   0.041577
+   0.036062
+   0.027664
+   0.022672
+Running shuffle 1 of 50...
+Running shuffle 2 of 50...
+Running shuffle 3 of 50...
+Running shuffle 4 of 50...
+Running shuffle 5 of 50...
+Running shuffle 6 of 50...
+Running shuffle 7 of 50...
+Running shuffle 8 of 50...
+Running shuffle 9 of 50...
+Running shuffle 10 of 50...
+Running shuffle 11 of 50...
+Running shuffle 12 of 50...
+Running shuffle 13 of 50...
+Running shuffle 14 of 50...
+Running shuffle 15 of 50...
+Running shuffle 16 of 50...
+Running shuffle 17 of 50...
+Running shuffle 18 of 50...
+Running shuffle 19 of 50...
+Running shuffle 20 of 50...
+Running shuffle 21 of 50...
+Running shuffle 22 of 50...
+Running shuffle 23 of 50...
+Running shuffle 24 of 50...
+Running shuffle 25 of 50...
+Running shuffle 26 of 50...
+Running shuffle 27 of 50...
+Running shuffle 28 of 50...
+Running shuffle 29 of 50...
+Running shuffle 30 of 50...
+Running shuffle 31 of 50...
+Running shuffle 32 of 50...
+Running shuffle 33 of 50...
+Running shuffle 34 of 50...
+Running shuffle 35 of 50...
+Running shuffle 36 of 50...
+Running shuffle 37 of 50...
+Running shuffle 38 of 50...
+Running shuffle 39 of 50...
+Running shuffle 40 of 50...
+Running shuffle 41 of 50...
+Running shuffle 42 of 50...
+Running shuffle 43 of 50...
+Running shuffle 44 of 50...
+Running shuffle 45 of 50...
+Running shuffle 46 of 50...
+Running shuffle 47 of 50...
+Running shuffle 48 of 50...
+Running shuffle 49 of 50...
+Running shuffle 50 of 50...
+lambda_max_rnd: 3.3779
+pos_thresh: 0.1956
+neg_thresh: -0.18625
+Alpha (number of significant eigenvalues): 3
+Starting computation of gamma_k thresholds for 3 PCs...
+  Finished gamma_k computation for PC 1
+  Finished gamma_k computation for PC 2
+  Finished gamma_k computation for PC 3
+All gamma_k thresholds computed.
+Gamma_k size: 3
+   0.2269   0.2533   0.2690
+warning: Singularity caused by thresholding!
+warning: called from
+    CorrITSPCA at line 80 column 9
+    coevolution_analysis_v3 at line 67 column 9
+
+PC_roca size: 99 x 3
+Number of fully absent domains (all zeros columns): 0
+Total number of columns in B: 99
+Number of columns after removing absent domains: 99
+Number of sectors formed by RoCA: 3
+{
+  [1,1] = 1
+  [1,2] =
+
+      2
+     73
+
+  [1,3] = 3
+}
+Size of cleaned correlation matrix C_hat: 99 x 99
+Size of frequency vector freq_bin: 99
+warning: using the gnuplot graphics toolkit is discouraged
+
+The gnuplot graphics toolkit is not actively maintained and has a number
+of limitations that are unlikely to be fixed.  Communication with gnuplot
+uses a one-directional pipe and limited information is passed back to the
+Octave interpreter so most changes made interactively in the plot window
+will not be reflected in the graphics properties managed by Octave.  For
+example, if the plot window is closed with a mouse click, Octave will not
+be notified and will not update its internal list of open figure windows.
+The qt toolkit is recommended instead.
+Mean conservation (mc) per sector:
+   0.040268   0.154362   1.516779
+Mean absolute correlation per sector:
+      NaN   0.2188      NaN
+Percentage negative correlations per sector:
+   NaN     0   NaN
+Percentage positive correlations per sector:
+   NaN   100   NaN
